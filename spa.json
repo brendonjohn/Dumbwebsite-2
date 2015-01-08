@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "domains": [
+    "testsite2.com"
+  ],
+  "assetsFolder": {
+    "location": "public/",
+    "requiredJavascript": [],
+    "requiredStyling": []
+  },
+  "routes": [
+    "/"
+  ]
+}
